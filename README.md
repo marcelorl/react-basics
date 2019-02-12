@@ -1,5 +1,7 @@
 # react-basics
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcelorl/react-basics.svg)](https://greenkeeper.io/)
+
 To install the project:
 
 `npm install`
